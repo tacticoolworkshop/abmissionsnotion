@@ -1,0 +1,2265 @@
+[
+  {
+    "object": "page",
+    "id": "23266069-c74b-8112-b975-da1dd7200220",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-16T10:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": null
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#KocakABis",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#KocakABis",
+            "href": null
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "Improvement",
+            "name": "Special Topic",
+            "color": "pink"
+          }
+        ]
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "22cd872b-594c-8127-af22-0002bb84ae11"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "done",
+          "name": "Done",
+          "color": "green"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": null
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_high",
+          "name": "High",
+          "color": "red"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-812e-aa10-d5f9a010656e"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/KocakABis-23266069c74b8112b975da1dd7200220",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "23266069-c74b-8144-9500-f7a978fe2389",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-16T10:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": null
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#SuhuOrCupu",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#SuhuOrCupu",
+            "href": null
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "26e303fd-faeb-48ed-b9fc-d825416f5274",
+            "name": "Commons Topic",
+            "color": "default"
+          }
+        ]
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "22cd872b-594c-8127-af22-0002bb84ae11"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "done",
+          "name": "Done",
+          "color": "green"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": null
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_low",
+          "name": "Low",
+          "color": "green"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-812e-aa10-d5f9a010656e"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/SuhuOrCupu-23266069c74b81449500f7a978fe2389",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "23266069-c74b-816b-a067-eb4ef1934eca",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-17T15:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": null
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Next Topic (test)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Next Topic (test)",
+            "href": null
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "45c99bfc-4de8-41be-a309-4bf6a767af7c",
+            "name": "Marketing",
+            "color": "green"
+          },
+          {
+            "id": "Improvement",
+            "name": "Special Topic",
+            "color": "pink"
+          }
+        ]
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "22cd872b-594c-8127-af22-0002bb84ae11"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "in-progress",
+          "name": "In Progress",
+          "color": "blue"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": {
+          "start": "2024-05-05",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_medium",
+          "name": "Medium",
+          "color": "yellow"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-818d-9ce3-e18788c81d96"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/Next-Topic-test-23266069c74b816ba067eb4ef1934eca",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "23266069-c74b-81b0-ba9e-d15b04533da1",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-17T16:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 14
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": {
+          "start": "2024-05-01",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Content Insights",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Content Insights",
+            "href": null
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "45c99bfc-4de8-41be-a309-4bf6a767af7c",
+            "name": "Marketing",
+            "color": "green"
+          },
+          {
+            "id": "Improvement",
+            "name": "Special Topic",
+            "color": "pink"
+          }
+        ]
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "22cd872b-594c-8127-af22-0002bb84ae11"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "done",
+          "name": "Done",
+          "color": "green"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": {
+          "start": "2024-04-17",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_low",
+          "name": "Low",
+          "color": "green"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-816f-bcbd-e54d4fb31ec4"
+          }
+        ],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-818d-9ce3-e18788c81d96"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/Content-Insights-23266069c74b81b0ba9ed15b04533da1",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "23266069-c74b-81d5-aaa4-c6ec53ad8368",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-16T10:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 2
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": {
+          "start": "2024-04-17",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Live Stream ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Live Stream ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Insights",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Insights",
+            "href": null
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "26e303fd-faeb-48ed-b9fc-d825416f5274",
+            "name": "Commons Topic",
+            "color": "default"
+          },
+          {
+            "id": "Improvement",
+            "name": "Special Topic",
+            "color": "pink"
+          }
+        ]
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "22cd872b-594c-8127-af22-0002bb84ae11"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "done",
+          "name": "Done",
+          "color": "green"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": {
+          "start": "2024-04-15",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_high",
+          "name": "High",
+          "color": "red"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-818d-9ce3-e18788c81d96"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/Live-Stream-Insights-23266069c74b81d5aaa4c6ec53ad8368",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "23266069-c74b-8115-83a5-db19356a20df",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-17T16:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 2
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": {
+          "start": "2024-05-03",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#Where is my Free Machete",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#Where is my Free Machete",
+            "href": null
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "26e303fd-faeb-48ed-b9fc-d825416f5274",
+            "name": "Commons Topic",
+            "color": "default"
+          }
+        ]
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "22cd872b-594c-8127-af22-0002bb84ae11"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "in-progress",
+          "name": "In Progress",
+          "color": "blue"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": {
+          "start": "2024-05-01",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_low",
+          "name": "Low",
+          "color": "green"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-812e-aa10-d5f9a010656e"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/Where-is-my-Free-Machete-23266069c74b811583a5db19356a20df",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "23266069-c74b-8163-bc8a-cc99e6665eeb",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-16T10:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 12
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": {
+          "start": "2024-05-21",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#HidupBarengAB",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#HidupBarengAB",
+            "href": null
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "Improvement",
+            "name": "Special Topic",
+            "color": "pink"
+          }
+        ]
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "22cd872b-594c-8127-af22-0002bb84ae11"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "done",
+          "name": "Done",
+          "color": "green"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": {
+          "start": "2024-05-09",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_high",
+          "name": "High",
+          "color": "red"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-812e-aa10-d5f9a010656e"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/HidupBarengAB-23266069c74b8163bc8acc99e6665eeb",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "23266069-c74b-8181-a9bd-d35e2896ccd6",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-17T16:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": null
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#JagoAB (edited 18/07/25)",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#JagoAB (edited 18/07/25)",
+            "href": null
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "26e303fd-faeb-48ed-b9fc-d825416f5274",
+            "name": "Commons Topic",
+            "color": "default"
+          }
+        ]
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "22cd872b-594c-8127-af22-0002bb84ae11"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "in-progress",
+          "name": "In Progress",
+          "color": "blue"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": null
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_high",
+          "name": "High",
+          "color": "red"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-812e-aa10-d5f9a010656e"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/JagoAB-edited-18-07-25-23266069c74b8181a9bdd35e2896ccd6",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "23266069-c74b-81d8-8c18-d8d3eed3ce10",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-16T10:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": null
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "UGC Rule",
+              "link": {
+                "url": "https://docs.google.com/document/d/1YGazdEwfWOitVMM-KM58V3AZOmqL9Q3Z/edit?tab=t.0"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "UGC Rule",
+            "href": "https://docs.google.com/document/d/1YGazdEwfWOitVMM-KM58V3AZOmqL9Q3Z/edit?tab=t.0"
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "22cd872b-594c-8127-af22-0002bb84ae11"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "done",
+          "name": "Done",
+          "color": "green"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": null
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_high",
+          "name": "High",
+          "color": "red"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-8141-bd91-eda9fde4be74"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/UGC-Rule-23266069c74b81d88c18d8d3eed3ce10",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "23266069-c74b-81ff-b485-ca55a5246326",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-16T10:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 7
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": {
+          "start": "2024-04-28",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Develop survey questions",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Develop survey questions",
+            "href": null
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "5188b5dd-60dc-4995-a488-e3418c63af51",
+            "name": "Research",
+            "color": "gray"
+          }
+        ]
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "ac7a3bd0-c111-4464-8f45-8a857a1abc8a"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "done",
+          "name": "Done",
+          "color": "green"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": {
+          "start": "2024-04-21",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_medium",
+          "name": "Medium",
+          "color": "yellow"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-81e6-b863-da1dd9405c34"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/Develop-survey-questions-23266069c74b81ffb485ca55a5246326",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "23266069-c74b-8115-a21e-d263d87cccd8",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-16T10:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 2
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": {
+          "start": "2024-05-01",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": " #",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " #",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Aurafarming",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Aurafarming",
+            "href": null
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "Improvement",
+            "name": "Special Topic",
+            "color": "pink"
+          }
+        ]
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "22cd872b-594c-8127-af22-0002bb84ae11"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "in-progress",
+          "name": "In Progress",
+          "color": "blue"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": {
+          "start": "2024-04-29",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_medium",
+          "name": "Medium",
+          "color": "yellow"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-812e-aa10-d5f9a010656e"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/Aurafarming-23266069c74b8115a21ed263d87cccd8",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "23266069-c74b-8149-a283-f15b881fb6dd",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-16T10:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": null
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Asset 2025",
+              "link": {
+                "url": "https://drive.google.com/drive/folders/1nNRyatp9KZBuTA6bH4YH1M1aqz_oaXeM"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Asset 2025",
+            "href": "https://drive.google.com/drive/folders/1nNRyatp9KZBuTA6bH4YH1M1aqz_oaXeM"
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "22cd872b-594c-8127-af22-0002bb84ae11"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "in-progress",
+          "name": "In Progress",
+          "color": "blue"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": {
+          "start": "2024-05-10",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_medium",
+          "name": "Medium",
+          "color": "yellow"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-8141-bd91-eda9fde4be74"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/Asset-2025-23266069c74b8149a283f15b881fb6dd",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "23266069-c74b-816f-bcbd-e54d4fb31ec4",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-16T10:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "number",
+          "number": 3
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": {
+          "start": "2024-04-16",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Topik: Tips Menarik Followers",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Topik: Tips Menarik Followers",
+            "href": null
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "45c99bfc-4de8-41be-a309-4bf6a767af7c",
+            "name": "Marketing",
+            "color": "green"
+          },
+          {
+            "id": "Improvement",
+            "name": "Special Topic",
+            "color": "pink"
+          }
+        ]
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "22cd872b-594c-8127-af22-0002bb84ae11"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "done",
+          "name": "Done",
+          "color": "green"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": {
+          "start": "2024-04-13",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_medium",
+          "name": "Medium",
+          "color": "yellow"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-81b0-ba9e-d15b04533da1"
+          }
+        ],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-818d-9ce3-e18788c81d96"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/Topik-Tips-Menarik-Followers-23266069c74b816fbcbde54d4fb31ec4",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "23266069-c74b-81c1-b3e7-f33b3c6326ce",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-16T10:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": null
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#Koen Rush",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#Koen Rush",
+            "href": null
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "26e303fd-faeb-48ed-b9fc-d825416f5274",
+            "name": "Commons Topic",
+            "color": "default"
+          }
+        ]
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "22cd872b-594c-8127-af22-0002bb84ae11"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "done",
+          "name": "Done",
+          "color": "green"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": null
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_medium",
+          "name": "Medium",
+          "color": "yellow"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-812e-aa10-d5f9a010656e"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/Koen-Rush-23266069c74b81c1b3e7f33b3c6326ce",
+    "public_url": null
+  },
+  {
+    "object": "page",
+    "id": "23266069-c74b-81eb-b6a4-ff995a6e9ee2",
+    "created_time": "2025-07-16T10:49:00.000Z",
+    "last_edited_time": "2025-07-17T16:14:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "231d872b-594c-8199-b401-0002fa17de16"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/clipping_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "database_id",
+      "database_id": "23266069-c74b-8138-a852-cd2e9810eab1"
+    },
+    "archived": false,
+    "in_trash": false,
+    "properties": {
+      "Document": {
+        "id": "Lc%3EQ",
+        "type": "url",
+        "url": null
+      },
+      "URL": {
+        "id": "T%5BcW",
+        "type": "url",
+        "url": null
+      },
+      "Delay": {
+        "id": "%5B%3EkY",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": null
+        }
+      },
+      "Completed on": {
+        "id": "%60d%3Bl",
+        "type": "date",
+        "date": null
+      },
+      "Task name": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#AB Versus Challenge!",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#AB Versus Challenge!",
+            "href": null
+          }
+        ]
+      },
+      "Tags": {
+        "id": "notion%3A%2F%2Ftasks%2Ftags_property",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "Improvement",
+            "name": "Special Topic",
+            "color": "pink"
+          }
+        ]
+      },
+      "Assignee": {
+        "id": "notion%3A%2F%2Ftasks%2Fassign_property",
+        "type": "people",
+        "people": [
+          {
+            "object": "user",
+            "id": "22cd872b-594c-8127-af22-0002bb84ae11"
+          }
+        ]
+      },
+      "Status": {
+        "id": "notion%3A%2F%2Ftasks%2Fstatus_property",
+        "type": "status",
+        "status": {
+          "id": "in-progress",
+          "name": "In Progress",
+          "color": "blue"
+        }
+      },
+      "Due": {
+        "id": "notion%3A%2F%2Ftasks%2Fdue_date_property",
+        "type": "date",
+        "date": null
+      },
+      "Priority": {
+        "id": "notion%3A%2F%2Ftasks%2Fpriority_property",
+        "type": "select",
+        "select": {
+          "id": "priority_high",
+          "name": "High",
+          "color": "red"
+        }
+      },
+      "Sub-tasks": {
+        "id": "notion%3A%2F%2Ftasks%2Fsub_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Parent-task": {
+        "id": "notion%3A%2F%2Ftasks%2Fparent_task_relation",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "Project": {
+        "id": "notion%3A%2F%2Ftasks%2Ftask_to_project_relation",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23266069-c74b-812e-aa10-d5f9a010656e"
+          }
+        ],
+        "has_more": false
+      }
+    },
+    "url": "https://www.notion.so/AB-Versus-Challenge-23266069c74b81ebb6a4ff995a6e9ee2",
+    "public_url": null
+  }
+]

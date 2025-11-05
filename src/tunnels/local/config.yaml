@@ -1,0 +1,6 @@
+tunnel: abnotion-local
+credentials-file: ./abnotion-local.json  # Relative to config file location
+
+ingress:
+  - service: http://localhost:3000
+  - service: http_status:404

@@ -1,3 +1,4 @@
+// statusChangeHandler.js
 const { fetchPageData } = require('../../../utils/notionHelpers');
 const { getLastStatus, setLastStatus } = require('../../statusCache');
 const { STATUS_ACTIONS } = require('../../../utils/statusActions');
@@ -12,7 +13,6 @@ const handleStatusChange = async (event, client) => {
   const pageId = event.entity?.id;
   const parentDbId = parent?.id;
 
-  // Filter only relevant pages and property updates
   if (!pageId || !parentDbId) return;
   if (parentDbId !== EXPECTED_DB_ID) return;
   if (!updated_properties.includes(STATUS_PROPERTY_KEY)) return;
@@ -22,21 +22,24 @@ const handleStatusChange = async (event, client) => {
     console.log('[StatusHandler] pageData:', pageData);
     if (!pageData) return;
 
-    const { title, status, url } = pageData;
+    // 👇 include postImage
+    const { title, status, url, content, postImage } = pageData;
 
-    // Prevent repeated announcements
     const lastStatus = await getLastStatus(pageId);
     if (lastStatus === status) return;
     await setLastStatus(pageId, status);
 
-    // Execute action for the status if defined
     const action = STATUS_ACTIONS[status];
     if (action) {
-      await action({ title, url, client });
-      console.log(`[StatusHandler] Executed action for "${status}" on "${title}"`);
+      // 👇 pass postImage through to the action
+      await action({ title, url, client, content, postImage });
+      console.log(
+        `[StatusHandler] Executed action for "${status}" on "${title}"`
+      );
     } else {
-      // Log unknown statuses for visibility
-      console.debug(`[StatusHandler] No action defined for status "${status}" on "${title}"`);
+      console.debug(
+        `[StatusHandler] No action defined for status "${status}" on "${title}"`
+      );
     }
   } catch (err) {
     console.error('[StatusHandler] Error handling status change:', err);

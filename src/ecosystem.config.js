@@ -4,7 +4,7 @@ module.exports = {
       name: 'notion-test',
       script: 'src/index.js',
       env: {
-        NODE_ENV: 'test',
+        NODE_ENV: 'local',
       },
       watch: true,
       ignore_watch: ['node_modules', '**/*.json', '**/*.css', '**/*.jpg', '**/*.png', '**/*.txt', '**/*.md'],
